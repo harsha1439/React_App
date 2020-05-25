@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_App/static/css/main.0dc35b3c.chunk.css",
+    "main.js": "/React_App/static/js/main.82e9e60c.chunk.js",
+    "main.js.map": "/React_App/static/js/main.82e9e60c.chunk.js.map",
+    "runtime-main.js": "/React_App/static/js/runtime-main.c96c8c71.js",
+    "runtime-main.js.map": "/React_App/static/js/runtime-main.c96c8c71.js.map",
+    "static/js/2.f1e25b38.chunk.js": "/React_App/static/js/2.f1e25b38.chunk.js",
+    "static/js/2.f1e25b38.chunk.js.map": "/React_App/static/js/2.f1e25b38.chunk.js.map",
+    "index.html": "/React_App/index.html",
+    "precache-manifest.f194061d2891c69b49c0648459366ccd.js": "/React_App/precache-manifest.f194061d2891c69b49c0648459366ccd.js",
+    "service-worker.js": "/React_App/service-worker.js",
+    "static/css/main.0dc35b3c.chunk.css.map": "/React_App/static/css/main.0dc35b3c.chunk.css.map",
+    "static/js/2.f1e25b38.chunk.js.LICENSE.txt": "/React_App/static/js/2.f1e25b38.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React_App/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96c8c71.js",
+    "static/js/2.f1e25b38.chunk.js",
+    "static/css/main.0dc35b3c.chunk.css",
+    "static/js/main.82e9e60c.chunk.js"
+  ]
+}
